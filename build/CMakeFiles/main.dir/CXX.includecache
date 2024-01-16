@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/threadpool.h
+vector
+-
+queue
+-
+memory
+-
+atomic
+-
+mutex
+-
+condition_variable
+-
+functional
+-
+thread
+-
+iostream
+-
+unordered_map
+-
+future
+-
+functional
+-
+typeinfo
+-
+
+/home/lion/project/c++20版本/src/main.cpp
+threadpool.h
+/home/lion/project/c++20版本/src/threadpool.h
+future
+-
+

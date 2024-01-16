@@ -265,5 +265,5 @@ $ g++ -o main src/main.cpp -Iinc -Llib -ltdpool -pthread -std=c++20
 
   File transfer.
 
-** C++17 version: ** [address](https://github.com/Lionchen97/flexithreadpool-cpp11/tree/main)
+**C++17 version:** [address](https://github.com/Lionchen97/flexithreadpool-cpp11/tree/main)
 

@@ -6,9 +6,9 @@ FlexiThreadPool is a highly flexible and feature-rich C++ thread pool library, o
 
 ## README.md
 
-\- zh_CN [简体中文](readme/README.zh_CN.md)
+- zh_CN [简体中文](readme/README.zh_CN.md)
 
-\- en [English](README.md)
+- en [English](README.md)
 
 ## Running Environment
 
